@@ -10,5 +10,5 @@ costruiti in Italia) e dal 2008 **presidente e fondatore di comPVter APS**, l'as
   operazioni critiche), Unreal Engine 5 e Blender.
 - 🏛️ Storia dell'informatica: buona parte dei computer esposti al museo vengono dalla mia collezione.
 
-📫 [LinkedIn](https://www.linkedin.com/in/dinobaldi) · [ctrlalt.museum](https://ctrlalt.museum) ·
+📫 [dino@compvter.it](mailto:dino@compvter.it) · [LinkedIn](https://www.linkedin.com/in/dinobaldi) · [ctrlalt.museum](https://ctrlalt.museum) ·
 [sostieni il museo](https://ctrlalt.museum/ctrlalter/)
